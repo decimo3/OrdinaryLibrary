@@ -1,0 +1,18 @@
+# Gradle e compilação
+.gradle/
+build/
+
+# Configuração local
+local.properties
+
+# Artefatos gerados
+*.apk
+*.aab
+
+# Configurações IDEs
+.idea/
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
